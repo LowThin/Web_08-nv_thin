@@ -1,3 +1,5 @@
+📚 RULES CHUNG KHI SỬ DỤNG GIT
+Quy tắc đặt tên nhánh khi thi công chức năng:
 feature/[Mô tả ngắn gọn về chức năng]
 Ví dụ: Thực hiện thi công: Yêu cầu nhập mã captcha khi đăng nhập không thành công nhiều lần.
 
